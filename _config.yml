@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Data science, Economy, Finance, Programming, Cloud Computing, and more.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'esepuente.github.io'
+url: ''
 
 github:
   username: esePuente             # change to your github username
