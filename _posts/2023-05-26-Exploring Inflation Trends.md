@@ -1,11 +1,11 @@
 ---
-title: Exploring Inflation Trends Using Snowflake’s Data Marketplace ❄️, and Zillow ZHVI
+title: Exploring Inflation Trends Using Snowflake’s Data Marketplace ❄️, and Zillow ZHVI 🎈
 date: 2023-05-26 12:00:00 -500
 categories: [inflation, economy, database, pandas, python]
 tags: [snowflake, pandas, zillow, inflation]
 ---
 
-# Exploring Inflation Trends Using Snowflake’s Data Marketplace ❄️, and Zillow ZHVI
+## Exploring Inflation Trends Using Snowflake’s Data Marketplace, and Zillow ZHVI
 
 May 2023 and inflation is still the center of attention for all major news outlets. Inflation, my friend, is a beast that prowls through the economic landscape, it impacts both businesses and individuals. It’s this fickle indicator that has everyone on edge, constantly checking and reacting to every minute piece of information that comes their way. And maybe rightly so. But, that data analysis and interpretation pose challenges. The data available may not be comprehensive or representative, leading to volatile markets and rising uncertainty. Different metrics and indicators may provide conflicting views of the economy, making it difficult to gauge the true state of affairs.
 

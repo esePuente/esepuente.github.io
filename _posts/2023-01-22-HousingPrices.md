@@ -1,11 +1,11 @@
 ---
-title: The State of the Housing Market
+title: The State of the Housing Market 🏘️ 🐼
 date: 2023-01-22 12:00:00 -500
 categories: [housing, economy, analytics, pandas, python]
 tags: [python, pandas, zillow, housing]
 ---
 
-# The State of the Housing Market: Using Pandas to analyze housing prices 🏘️ 🐼
+## The State of the Housing Market: Using Pandas to analyze housing prices
 
 Do you think you know how the housing market is doing? Would you like to know where are the highest or lowest prices in the Country, State, County, City? How about, how have prices raised (or dropped) in the last few months in your area?
 

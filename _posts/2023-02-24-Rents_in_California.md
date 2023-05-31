@@ -1,11 +1,11 @@
 ---
-title: 6 Surprising Facts About Rents in California
+title: 6 Surprising Facts About Rents in California 🏝️
 date: 2023-02-24 12:00:00 -500
 categories: [housing, economy, analytics, pandas, python]
 tags: [python, pandas, zillow, housing]
 ---
 
-# 6 Surprising Facts About Rents in California: Data and Analysis
+## 6 Surprising Facts About Rents in California: Data and Analysis
 
 One crucial factor that influences inflation is the rent — this fundamental aspect of the economy measures the one thing that affects us all, even if you are not the one paying the rent. At the start of this year, the markets rallied with a burst of optimism on the news that the Fed was taking a more “dovish” 🕊️ stance. This was reportedly due to the perception of slowing economic conditions, which was seen as a good signal by many 🤔.
 
