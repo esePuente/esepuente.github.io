@@ -1,7 +1,7 @@
 ---
 title: 6 Surprising Facts About Rents in California 🏝️
 date: 2023-02-24 12:00:00 -500
-categories: [housing, economy, analytics, pandas, python]
+categories: [Economy, Housing]
 tags: [python, pandas, zillow, housing]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The State of the Housing Market 🏘️ 🐼
 date: 2023-01-22 12:00:00 -500
-categories: [housing, economy, analytics, pandas, python]
+categories: [Economy, Housing]
 tags: [python, pandas, zillow, housing]
 ---
 

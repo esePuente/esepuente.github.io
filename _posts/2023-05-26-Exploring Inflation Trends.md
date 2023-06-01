@@ -1,8 +1,9 @@
 ---
 title: Exploring Inflation Trends Using Snowflake’s Data Marketplace ❄️, and Zillow ZHVI 🎈
 date: 2023-05-26 12:00:00 -500
-categories: [inflation, economy, database, pandas, python]
+categories: [Economy, Inflation]
 tags: [snowflake, pandas, zillow, inflation]
+pin: true
 ---
 
 ## Exploring Inflation Trends Using Snowflake’s Data Marketplace, and Zillow ZHVI
@@ -366,7 +367,7 @@ Ta-da! Not impressed?! 😅
 
 Seriously though. There’s again a lot to unpack from this chart:
 
-1. Home prices peaked in mid 2021 for the average home in the country. Based on ZHVI, 14% was the top in July 2021 and interest rates had not started moving yet.
+1. Home prices' inflation peaked in mid 2021 for the average home in the country. Based on ZHVI, 14% was the top in July 2021 and interest rates had not started moving yet.
 2. Then came rents at 13% YoY in December 2021 and had kept since steadily slowing down. But not as fast as prices. Now rents are at ~6% YoY, and Home Prices are approaching 3% YoY.
 3. Finally, the PCE. The FEDS’ favorite inflation metric seem to have peaked in June 2022 at 7%. So no disinflation of course, but at least is getting tamed. We are now sitting right above the 4%, still twice as much as the goal of 2% form the FED. But if we all agree this indicator is lagging the home prices and rents, maybe indeed the FED should stop the rate hikes and try to get to that “soft-landing”.
 
