@@ -8,7 +8,7 @@ order: 4
 
 **So, what's my deal?**
 
-I've been a Sales Engineer for the last 4 years in the exciting world of high-tech enterprise. I've been driving the development and distribution of storage products that people just can't get enough of. I've also been a Systems Engineer for some of the biggest Aerospace companies. From technical sales to systems validation, from _Cloud_ infrastructure to actual hardware in the real clouds, or above. I am trying it all. It's been a wild ride, but I am having a blast! Might want to check out [my resume](esepuente.github.io/online-cv/) if you are so inclined.
+I've been a Sales Engineer for the last 4 years in the exciting world of high-tech enterprise. I've been driving the development and distribution of storage products that people just can't get enough of. I've also been a Systems Engineer for some of the biggest Aerospace companies. From technical sales to systems validation, from _Cloud_ infrastructure to actual hardware in the real clouds, or above. I am trying it all. It's been a wild ride, but I am having a blast! Might want to check out [my resume](https://esepuente.github.io/online-cv/) if you are so inclined.
 
 **Any other interests?**
 
